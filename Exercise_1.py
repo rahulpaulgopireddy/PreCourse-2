@@ -9,9 +9,6 @@ def binarySearch(arr, l, r, x):
   left = l
   right = r
   
-  print (arr,l,r,x)
-  
-
   while left <= right:
 
     mid = (left + right ) // 2
